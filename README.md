@@ -61,4 +61,8 @@ abstract="A fundamental operation in computational genomics is to reduce the inp
 isbn="978-981-99-7074-2"
 }
 ```
+or
+
+Rossignolo E, Comin M. Enhanced Compression of k-Mer Sets with Counters via de Bruijn Graphs. Journal of Computational Biology. 2024;31(6):524-538. doi:10.1089/cmb.2024.0530
+  
 
